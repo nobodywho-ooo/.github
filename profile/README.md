@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://www.nobodywho.ai">Website</a> ·
   <a href="https://docs.nobodywho.ai">Docs</a> ·
+  <a href="https://huggingface.co/NobodyWho">Hugging Face</a> .
   <a href="https://x.com/nobodywho_ai">X</a> ·
   <a href="https://bsky.app/profile/nobodywhooo.bsky.social">Bluesky</a> .
-  <a href="https://huggingface.co/NobodyWho">Hugging Face</a> .
   <a href="https://discord.gg/N359FBbDVd">Discord</a>
 </p>
 
