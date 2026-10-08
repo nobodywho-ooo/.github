@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.nobodywho.ai">
-    <img src="https://raw.githubusercontent.com/nobodywho-ooo/.github/main/profile/logo.png" alt="NobodyWho" width="100%">
+    <img src="https://raw.githubusercontent.com/nobodywho-ooo/.github/main/profile/logo.png" alt="NobodyWho" width="30%">
   </a>
 </p>
 
