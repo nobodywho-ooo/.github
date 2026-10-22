@@ -20,3 +20,10 @@
 ## Get started
 
 - **[On-device AI](https://github.com/nobodywho-ooo/nobodywho)**: inference library for Python, Kotlin, Swift, Flutter, React Native/Expo and Godot.
+
+### Our starters examples
+
+- [React Native](https://github.com/nobodywho-ooo/react-native-starter-example)
+- [Expo](https://github.com/nobodywho-ooo/expo-starter-example)
+- [Flutter](https://github.com/nobodywho-ooo/flutter-starter-example)
+- [Swift](https://github.com/nobodywho-ooo/swift-starter-example)
