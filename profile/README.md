@@ -30,6 +30,6 @@
 - [Kotlin](https://github.com/nobodywho-ooo/kotlin-starter-example)
 
 ### Our apps
-- [Android & iOS](https://github.com/nobodywho-ooo/NobodyWho-Chat)
-- [Apple Watch](https://github.com/nobodywho-ooo/NobodyWho-Watch)
-- [Vision Pro](https://github.com/nobodywho-ooo/NobodyWho-Vision-Pro)
+- [Android](https://play.google.com/store/apps/details?id=ai.nobodywho.mobile) & [iOS](https://apps.apple.com/us/app/nobodywho-chat/id6781001350) - [repo](https://github.com/nobodywho-ooo/NobodyWho-Chat)
+- [Apple Watch](https://apps.apple.com/us/app/nobodywho-wrist/id6762020355?platform=watch) - [repo](https://github.com/nobodywho-ooo/NobodyWho-Watch)
+- [Vision Pro](https://apps.apple.com/us/app/nobodywho-eyes/id6771770762) - [repo](https://github.com/nobodywho-ooo/NobodyWho-Vision-Pro)
